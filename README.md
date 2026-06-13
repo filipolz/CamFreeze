@@ -11,7 +11,7 @@ connection.
 
 ## Demo
 
-<video src="video/example.mp4" controls width="600"></video>
+![CamFreeze demo](video/demo.gif)
 
 ## One-time setup
 
