@@ -11,7 +11,9 @@ connection.
 
 ## Demo
 
-![CamFreeze demo](video/demo.gif)
+<p align="center">
+  <img src="video/demo.gif" alt="CamFreeze demo" width="630" />
+</p>
 
 ## One-time setup
 
