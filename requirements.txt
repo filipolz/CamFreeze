@@ -1,0 +1,4 @@
+opencv-python>=4.10
+pyvirtualcam>=0.14
+numpy>=1.26
+Pillow>=10.0
