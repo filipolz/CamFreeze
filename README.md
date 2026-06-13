@@ -4,9 +4,9 @@ Freeze or stutter your webcam feed on demand, so it looks like your video
 connection broke, handy when you need to slip out of a meeting.
 
 How it works: CamFreeze reads your real webcam and republishes it as a
-**virtual camera**. Your meeting app (Zoom, Meet, Teams, ...) uses the virtual
+**virtual camera**. Your meeting app uses the virtual
 camera instead of the real one. When you hit **Freeze** the outgoing video
-holds the last frame; **Stutter** makes it laggy and blocky like a bad
+holds the last frame. **Stutter** makes it laggy and blocky like a bad
 connection.
 
 ## Demo
